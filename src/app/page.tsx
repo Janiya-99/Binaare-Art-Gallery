@@ -16,7 +16,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const ease = [0.22, 1, 0.36, 1] as const;
 
-const HERO_VIDEO = "/Woman_posing_in_white_costume_20260916151429.mp4";
+const HERO_VIDEO = "/02.mp4";
 const HERO_POSTER = "/hero-woman-poster.jpg";
 
 const heroStagger: Variants = {
